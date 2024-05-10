@@ -3,9 +3,6 @@
 
 
 ## 💡️ **why TravelMate?**
-
-
-- Utilizes Here Location Services and Mobile SDKs.
 - Offers guided tours, historical information, and interactive maps for city exploration.
 
 <br />
