@@ -29,27 +29,6 @@
 - Educational and Interactive Tours: Focused on history, culture, and architecture.
 - Customizable Itineraries: Tailored experiences based on interests and time availability.
 
-<br />
-
-
-## 📸️ **Screenshots**
-
-### APP
-
-<!-- First Row -->
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/dishantzaveri/djcsi_EnemiesOfSyntax/assets/80118978/04431733-8c31-4682-b3b6-02dc31bed98a" alt="1" width="30%">
-    <img src="https://github.com/dishantzaveri/djcsi_EnemiesOfSyntax/assets/80118978/35aa65e9-73f7-4f08-a266-09ff7165f5a5" alt="2" width="30%">
-    <img src="https://github.com/dishantzaveri/djcsi_EnemiesOfSyntax/assets/80118978/7db7981e-cf91-4c9d-8e2b-f285e969b26c" alt="3" width="30%">
-</div>
-
-<!-- Second Row -->
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/dishantzaveri/djcsi_EnemiesOfSyntax/assets/80118978/18e519e3-4868-4083-bffb-3ba96388bfa8" alt="4" width="30%">
-    <img src="https://github.com/dishantzaveri/djcsi_EnemiesOfSyntax/assets/80118978/7681f750-b923-42b1-829d-1fe5cb5c37b5" alt="5" width="30%">
-    <img src="https://github.com/dishantzaveri/djcsi_EnemiesOfSyntax/assets/80118978/ed0e2619-5a09-44ed-aec5-666e86de7455" alt="6" width="30%">
-</div>
-
 
 
 <br />
